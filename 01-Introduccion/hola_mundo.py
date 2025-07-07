@@ -1,3 +1,3 @@
-# Programa de Hola Mundo con Phyton
+# Programa de Hola Mundo con Python
 print("Hola Mundo con Python")
 print("Saludos")
