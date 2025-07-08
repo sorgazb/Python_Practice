@@ -1,4 +1,4 @@
-# Ejercicio de Sistema de Tienda Online
+# Ejercicios de Sistema de Tienda Online
 
 # Variables
 producto = "Camiseta"

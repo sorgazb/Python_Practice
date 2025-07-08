@@ -1,4 +1,4 @@
-# Ejercicio de Sistema de reserva de Hoteles
+# Ejercicios de Sistema de reserva de Hoteles
 
 # Variables
 cliente = "Sergio Orgaz Bravo"
